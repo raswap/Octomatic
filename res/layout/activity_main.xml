@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="#ffe6e6fa" android:paddingLeft="@dimen/activity_horizontal_margin" android:paddingTop="@dimen/activity_vertical_margin" android:paddingRight="@dimen/activity_horizontal_margin" android:paddingBottom="@dimen/activity_vertical_margin" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textAppearance="?android:textAppearanceMedium" android:textStyle="bold|italic" android:textColor="#ff1099dd" android:gravity="center" android:id="@id/main_header" android:background="#fffaebd7" android:layout_width="fill_parent" android:layout_height="100.0dip" android:text="Select Any Service Below" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+    <Button android:id="@id/news_button" android:layout_width="250.0dip" android:layout_height="90.0dip" android:text="News" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <Button android:id="@id/eshop_button" android:layout_width="250.0dip" android:layout_height="90.0dip" android:layout_marginBottom="71.0dip" android:text="E-Shop" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" />
+</RelativeLayout>

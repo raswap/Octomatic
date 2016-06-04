@@ -1,0 +1,25 @@
+// Decompiled by Jad v1.5.8e. Copyright 2001 Pavel Kouznetsov.
+// Jad home page: http://www.geocities.com/kpdus/jad.html
+// Decompiler options: braces fieldsfirst space lnc 
+
+package android.support.graphics.drawable;
+
+
+// Referenced classes of package android.support.graphics.drawable:
+//            PathParser
+
+private static class <init>
+{
+
+    int mEndPosition;
+    boolean mEndWithNegOrDot;
+
+    private ()
+    {
+    }
+
+    ( )
+    {
+        this();
+    }
+}
